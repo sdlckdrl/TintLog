@@ -3,7 +3,7 @@
   "notes": "Adds in-app update check UI, download verification, Samhwa page-code color lookup, and duplicate office-mode source filtering.",
   "installer": {
     "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.9/TintLog_Setup_4.11.9.exe",
-    "sha256": "AE436182BAA270BFEDBAC84F219F0385D0EDE4DA764CF433AA950BC64393DFE7"
+    "sha256": "BFB7EA926E9AFB2F43EFE7E6DE0CA3E113BF245E41728918AB38A8B85DB75BB3"
   },
   "color_db": {
     "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.9/colors.db",
