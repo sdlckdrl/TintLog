@@ -1,12 +1,12 @@
 {
-  "version": "4.11.9",
-  "notes": "Adds in-app update check UI, download verification, Samhwa page-code color lookup, and duplicate office-mode source filtering.",
+  "version": "4.11.10",
+  "notes": "Adds CKPC CKB/CKA color chart data, KPIC G/H standard color guide data, and color-code recognition for CKPC/KPIC formats.",
   "installer": {
-    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.9/TintLog_Setup_4.11.9.exe",
-    "sha256": "BFB7EA926E9AFB2F43EFE7E6DE0CA3E113BF245E41728918AB38A8B85DB75BB3"
+    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.10/TintLog_Setup_4.11.10.exe",
+    "sha256": "40A3810911E3A065F3816E798CE685ED5D72FF06ED7A323EA291AE6E5A490C97"
   },
   "color_db": {
-    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.9/colors.db",
-    "sha256": "D3985EBCD676E72CBC5E84CA81594AF2260D3A6AA9E3AB203D1E84100E29DC0B"
+    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.10/colors.db",
+    "sha256": "A9E6704BF21AB2662AFB184A715C192FBCFE459E59EDC55E299D28F47A1AF5BF"
   }
 }
