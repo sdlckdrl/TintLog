@@ -1,12 +1,12 @@
 {
-  "version": "4.11.10",
-  "notes": "Adds CKPC CKB/CKA color chart data, KPIC G/H standard color guide data, and color-code recognition for CKPC/KPIC formats.",
+  "version": "4.11.11",
+  "notes": "컬러, 제품, 메모 통합검색을 추가했습니다. 기존 개별 상세 조건과 함께 사용할 수 있습니다.",
   "installer": {
-    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.10/TintLog_Setup_4.11.10.exe",
-    "sha256": "40A3810911E3A065F3816E798CE685ED5D72FF06ED7A323EA291AE6E5A490C97"
+    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.11/TintLog_Setup_4.11.11.exe",
+    "sha256": "9342C371644FEE19A75B4A5AA270DC8FE9DE5143F8A2ED4F6153CB1090B7087E"
   },
   "color_db": {
-    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.10/colors.db",
+    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.11/colors.db",
     "sha256": "A9E6704BF21AB2662AFB184A715C192FBCFE459E59EDC55E299D28F47A1AF5BF"
   }
 }
