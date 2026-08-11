@@ -1,9 +1,9 @@
 {
   "version": "4.11.14",
-  "notes": "통합조회에서 연결이 끊긴 조색기가 있어도 나머지 결과가 표시되고, 끊긴 기기가 화면 배너로 안내됩니다. 백업 시작 전 연결 상태를 확인해 끊긴 기기를 자동 제외하고, 실패한 기기만 재시도할 수 있습니다.",
+  "notes": "통합조회에서 연결이 끊긴 조색기가 있어도 나머지 결과가 표시되고, 끊긴 기기가 화면 배너로 안내됩니다. 백업 시작 전 연결 상태를 확인해 끊긴 기기를 자동 제외합니다. 조색기 인증이 사용 중에는 만료되지 않도록 개선되고, 환경 설정에서 실제 연결/재인증 상태가 표시됩니다.",
   "installer": {
     "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.14/TintLog_Setup_4.11.14.exe",
-    "sha256": "559665aee323474b1aacaa1011939d485e54338627206b6bd74e26bf442cf0ae"
+    "sha256": "ba2fdf0fed1e2f176315e26754dece25c312abc98676967c1ef523a121eec6c2"
   },
   "color_db": {
     "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.11/colors.db",
