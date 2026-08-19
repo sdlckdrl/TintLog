@@ -1,9 +1,9 @@
 {
-  "version": "4.11.17",
-  "notes": "사무실 모드에 매일 자동 백업이 추가되었습니다(기본 12:00, 실패 시 트레이 알림, 기기별 30일 보관). Windows 시작 시 자동 실행 옵션, 로컬 모드 백업, C:\\local 전체 백업, 통합조회 연결 끊김 표시, 조색기 인증 자동 연장이 포함되어 있습니다.",
+  "version": "4.11.18",
+  "notes": "컬러 컬럼을 더블클릭하면 큰 색상 견본과 제품/BASE/용량/배합 정보를 보여주는 상세 팝업이 열립니다(팝업에서 바로 인쇄·전송 가능). 매일 자동 백업, Windows 자동 시작, 인증 자동 연장 등 이전 개선 사항이 포함되어 있습니다.",
   "installer": {
-    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.17/TintLog_Setup_4.11.17.exe",
-    "sha256": "368ee93cdb1fac93119913fde61bd7bc82048fcf64dc134c5571e88c785003d9"
+    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.18/TintLog_Setup_4.11.18.exe",
+    "sha256": "d5e5ed44460a94fba9223565258aa704b87324f31ff293d1f30ec3e97398d1b7"
   },
   "color_db": {
     "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.11/colors.db",
