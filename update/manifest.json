@@ -1,9 +1,9 @@
 {
-  "version": "4.11.18",
-  "notes": "컬러 컬럼을 더블클릭하면 큰 색상 견본과 제품/BASE/용량/배합 정보를 보여주는 상세 팝업이 열립니다(팝업에서 바로 인쇄·전송 가능). 매일 자동 백업, Windows 자동 시작, 인증 자동 연장 등 이전 개선 사항이 포함되어 있습니다.",
+  "version": "4.11.19",
+  "notes": "조색 데이터 수정 기능이 추가되었습니다 — 원본 XML은 그대로 두고 컬러/제품/특성 표기만 수정·복원할 수 있으며, 수정된 자료는 주황색으로 표시되고 필터로 모아 볼 수 있습니다. 행 우클릭 메뉴가 추가되고, 달력·메뉴·툴팁 색상이 PC 테마와 무관하게 동일하게 보이도록 고정되었습니다.",
   "installer": {
-    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.18/TintLog_Setup_4.11.18.exe",
-    "sha256": "d5e5ed44460a94fba9223565258aa704b87324f31ff293d1f30ec3e97398d1b7"
+    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.19/TintLog_Setup_4.11.19.exe",
+    "sha256": "e8a1ab30f48d8f29b08f8959ef4b71ecb156d116c91cd45f77797d0f7a0a1235"
   },
   "color_db": {
     "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.11/colors.db",
