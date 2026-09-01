@@ -1,9 +1,9 @@
 {
-  "version": "4.11.21",
-  "notes": "컬러 수정이 실제 데이터 구조(키1/키2/키3/주석)로 바뀌어 전송에 반영되고, 제품·특성은 수정 항목에서 제외되었습니다. 배합 상세 팝업은 창 밖을 클릭하면 닫힙니다. 1L 배합량 수정, 수정 자료 표시·필터, 자동 백업 등 이전 기능이 포함되어 있습니다.",
+  "version": "4.11.22",
+  "notes": "수정된 자료가 목록에서 연한 주황 배경과 ✎ 표시로 한눈에 구분됩니다. 배합 상세 팝업이 창 밖 클릭으로 닫히도록 수정되었습니다. 컬러(키1/키2/키3/주석)·배합량 수정, 수정 자료 필터, 자동 백업 등 이전 기능이 포함되어 있습니다.",
   "installer": {
-    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.21/TintLog_Setup_4.11.21.exe",
-    "sha256": "4d6c176056b7e0642abb85225864fef9985d7572f93af7f9ecca902be2039d12"
+    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.22/TintLog_Setup_4.11.22.exe",
+    "sha256": "bf68f7427d0dbf0d31f555e28980bad234214a5bce864187e52f7b240065a9bd"
   },
   "color_db": {
     "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.11/colors.db",
