@@ -1,9 +1,9 @@
 {
-  "version": "4.11.19",
-  "notes": "조색 데이터 수정 기능이 추가되었습니다 — 원본 XML은 그대로 두고 컬러/제품/특성 표기만 수정·복원할 수 있으며, 수정된 자료는 주황색으로 표시되고 필터로 모아 볼 수 있습니다. 행 우클릭 메뉴가 추가되고, 달력·메뉴·툴팁 색상이 PC 테마와 무관하게 동일하게 보이도록 고정되었습니다.",
+  "version": "4.11.20",
+  "notes": "조색 데이터 수정에서 1L 배합 기준(조색제별 양)도 수정할 수 있습니다. 수정된 배합은 전송 시 실제 조색에 사용되며(저장 전 경고 확인), 원본 XML 보존·되돌리기·주황색 표시·수정 자료 필터·행 우클릭 메뉴가 포함되어 있습니다.",
   "installer": {
-    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.19/TintLog_Setup_4.11.19.exe",
-    "sha256": "e8a1ab30f48d8f29b08f8959ef4b71ecb156d116c91cd45f77797d0f7a0a1235"
+    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.20/TintLog_Setup_4.11.20.exe",
+    "sha256": "1d1e8c9f7f6c09e6f40ad8fd82010a16ada2e8462ab5ded7ff6f6e8ad023f1fb"
   },
   "color_db": {
     "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.11/colors.db",
