@@ -1,9 +1,9 @@
 {
-  "version": "4.11.27",
-  "notes": "배합 조색제 추가 시 코드 앞글자뿐 아니라 이름 일부(예: 흑색)로도 검색되고, 빈 입력칸을 클릭하면 그 조색기의 조색제 전체 목록이 펼쳐집니다. 기기별 조색제 분리, 색상 자동 업데이트, 아이럭스 112색 등 이전 기능이 포함되어 있습니다.",
+  "version": "4.11.28",
+  "notes": "KCC 수성 조색기처럼 조색제 이름에 괄호가 들어가는 경우(예: WR2(내부)) 전송 시 해당 조색제가 빠지던 문제를 수정했습니다. 화면 표시와 배합 수정에서도 조색제를 정확히 읽고, 수정 저장 시 원본 구조를 그대로 보존합니다. 기기별 조색제 분리, 색상 자동 업데이트, 아이럭스 112색 등 이전 기능이 포함되어 있습니다.",
   "installer": {
-    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.27/TintLog_Setup_4.11.27.exe",
-    "sha256": "7b750a72514d0c6c39a2238ee607dc65ffdbca80834854918a6d19870d5ec90d"
+    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.28/TintLog_Setup_4.11.28.exe",
+    "sha256": "8f297a54a660c313fad7e6de63fd5404fe3e8d78ca54544a4e61a1823dfb3aa3"
   },
   "color_db": {
     "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.25/colors.db",
