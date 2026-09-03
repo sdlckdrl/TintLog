@@ -1,9 +1,9 @@
 {
-  "version": "4.11.29",
-  "notes": "제품 칸이 조색기 화면과 같은 '분류 : 제품명' 형식으로 표시되고, 컬러 칸은 '키1 (키2)'로 정리되어 빈 구분자와 내부 날짜가 보이지 않습니다(나머지 정보는 툴팁·상세·수정 창·검색에서 그대로 사용). 기존 캐시는 첫 조회 때 자동 재생성됩니다. 조색기별 샘플 24,849건 전수 검증 통과.",
+  "version": "4.11.30",
+  "notes": "사무실 모드에서 제품·컬러·배합 표시를 원본값으로 이 PC에서 직접 만들어, 조색기 PC 버전과 무관하게 항상 최신 형식('분류 : 제품명', '키1 (키2)')으로 보입니다. 제품 칸 폭을 넓혀 긴 이름이 잘리지 않습니다. 조색기 PC에도 이 버전을 설치해야 전송 조색제 누락 수정 등이 실제 조색에 반영됩니다.",
   "installer": {
-    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.29/TintLog_Setup_4.11.29.exe",
-    "sha256": "22291f1991edd3184876f0d7ad15339552b6a076f8eb306264ba1d1b4f0d5db6"
+    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.30/TintLog_Setup_4.11.30.exe",
+    "sha256": "db9deff0d28c9f1bfefb714d201ab5ba8e76de15123730081101b7a6804cbbfe"
   },
   "color_db": {
     "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.25/colors.db",
