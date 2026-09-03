@@ -1,12 +1,12 @@
 {
-  "version": "4.11.24",
-  "notes": "결과 목록의 1L 배합 기준 칸에서 변경·추가된 조색제만 빨간 글씨로 표시됩니다(수정 창·상세 팝업과 동일). 배합 조색제 추가, 컬러 수정, 수정 자료 강조·필터, 자동 백업 등 이전 기능이 포함되어 있습니다.",
+  "version": "4.11.25",
+  "notes": "색상 정보가 자동으로 업데이트됩니다 — 새 색상 데이터가 배포되면 각 PC가 업데이트 확인 시 내려받아 반영하며, 직접 추가한 색상은 유지됩니다. 아이럭스 전용 프리미엄 컬러 112색(LUX 0001~0112)이 추가되었습니다. 배합 조색제 추가·빨간 글씨 표시, 컬러 수정, 자동 백업 등 이전 기능이 포함되어 있습니다.",
   "installer": {
-    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.24/TintLog_Setup_4.11.24.exe",
-    "sha256": "8c8c1de871641afc806f6434f487b63b531eb6f52b47662ee8834d4b146281f5"
+    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.25/TintLog_Setup_4.11.25.exe",
+    "sha256": "06aafdd6ba562c03185795400f8472ec57f5c18a1457cd8f360ab5576c1f0f41"
   },
   "color_db": {
-    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.11/colors.db",
-    "sha256": "A9E6704BF21AB2662AFB184A715C192FBCFE459E59EDC55E299D28F47A1AF5BF"
+    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.25/colors.db",
+    "sha256": "ce101db4f35d7c616d0e89a1d8847edfe01c917edb7f9dfbeea378538b67f127"
   }
 }
