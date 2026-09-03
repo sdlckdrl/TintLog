@@ -1,9 +1,9 @@
 {
-  "version": "4.11.26",
-  "notes": "배합 수정의 조색제 추가 목록이 해당 조색기의 조색제만 보여주도록 바뀌었습니다(조색제 번호는 기기마다 달라 다른 기기 것과 섞이지 않음). 목록은 그 조색기의 전체 이력 기준이며, 같은 코드가 여러 번호로 쓰였으면 최근 이력의 번호를 씁니다. 색상 자동 업데이트, 아이럭스 112색 등 이전 기능이 포함되어 있습니다.",
+  "version": "4.11.27",
+  "notes": "배합 조색제 추가 시 코드 앞글자뿐 아니라 이름 일부(예: 흑색)로도 검색되고, 빈 입력칸을 클릭하면 그 조색기의 조색제 전체 목록이 펼쳐집니다. 기기별 조색제 분리, 색상 자동 업데이트, 아이럭스 112색 등 이전 기능이 포함되어 있습니다.",
   "installer": {
-    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.26/TintLog_Setup_4.11.26.exe",
-    "sha256": "5c52501f6086d3cc4bcfeec9047593b52cb6c5eb3954fc2720fdef70da9cd7e0"
+    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.27/TintLog_Setup_4.11.27.exe",
+    "sha256": "7b750a72514d0c6c39a2238ee607dc65ffdbca80834854918a6d19870d5ec90d"
   },
   "color_db": {
     "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.25/colors.db",
