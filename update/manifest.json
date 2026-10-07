@@ -1,9 +1,9 @@
 {
-  "version": "4.11.31",
-  "notes": "조색비 수정 배합 전송 시 SRC/WGH/LQT 숫자 필드에 XML 괄호가 붙는 문제를 수정했습니다. 수정한 조색제 양과 배합 기준은 유지됩니다. 사무실 PC뿐 아니라 전송 파일을 생성하는 조색기 PC도 이 버전으로 업데이트해야 적용됩니다.",
+  "version": "4.11.32",
+  "notes": "v4.11.31에서 QtGui DLL 로딩 오류로 실행되지 않는 문제를 수정했습니다. 잘못 포함된 ICU DLL을 제외하고 재설치 시 남은 DLL도 정리합니다. 조색비 수정 배합 전송 수정도 포함되어 있으며, 사무실 PC와 조색기 PC 모두 업데이트해주세요.",
   "installer": {
-    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.31/TintLog_Setup_4.11.31.exe",
-    "sha256": "96d0ab943e49818243b08c61d2ee2a18ee7046d39b62888572408dbbb44626d5"
+    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.32/TintLog_Setup_4.11.32.exe",
+    "sha256": "80f6e3fbd54ce703390009f1c7ea3b994c7415b89a511d55e4729e1688e4f367"
   },
   "color_db": {
     "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.25/colors.db",
