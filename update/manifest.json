@@ -1,9 +1,9 @@
 {
-  "version": "4.11.30",
-  "notes": "사무실 모드에서 제품·컬러·배합 표시를 원본값으로 이 PC에서 직접 만들어, 조색기 PC 버전과 무관하게 항상 최신 형식('분류 : 제품명', '키1 (키2)')으로 보입니다. 제품 칸 폭을 넓혀 긴 이름이 잘리지 않습니다. 조색기 PC에도 이 버전을 설치해야 전송 조색제 누락 수정 등이 실제 조색에 반영됩니다.",
+  "version": "4.11.31",
+  "notes": "조색비 수정 배합 전송 시 SRC/WGH/LQT 숫자 필드에 XML 괄호가 붙는 문제를 수정했습니다. 수정한 조색제 양과 배합 기준은 유지됩니다. 사무실 PC뿐 아니라 전송 파일을 생성하는 조색기 PC도 이 버전으로 업데이트해야 적용됩니다.",
   "installer": {
-    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.30/TintLog_Setup_4.11.30.exe",
-    "sha256": "db9deff0d28c9f1bfefb714d201ab5ba8e76de15123730081101b7a6804cbbfe"
+    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.31/TintLog_Setup_4.11.31.exe",
+    "sha256": "96d0ab943e49818243b08c61d2ee2a18ee7046d39b62888572408dbbb44626d5"
   },
   "color_db": {
     "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.25/colors.db",
