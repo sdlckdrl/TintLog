@@ -1,9 +1,9 @@
 {
-  "version": "4.11.32",
-  "notes": "v4.11.31에서 QtGui DLL 로딩 오류로 실행되지 않는 문제를 수정했습니다. 잘못 포함된 ICU DLL을 제외하고 재설치 시 남은 DLL도 정리합니다. 조색비 수정 배합 전송 수정도 포함되어 있으며, 사무실 PC와 조색기 PC 모두 업데이트해주세요.",
+  "version": "4.11.33",
+  "notes": "검색 결과 표의 열 너비를 조절하면 PC별로 자동 저장하여 다음 실행에도 복원합니다. 환경 설정에 검색 결과 행 높이를 추가했으며, 재검색이나 글자 크기 변경 후에도 지정한 높이를 유지합니다. 마지막 메모 열도 사용자가 정한 너비를 유지합니다.",
   "installer": {
-    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.32/TintLog_Setup_4.11.32.exe",
-    "sha256": "80f6e3fbd54ce703390009f1c7ea3b994c7415b89a511d55e4729e1688e4f367"
+    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.33/TintLog_Setup_4.11.33.exe",
+    "sha256": "5a8d96f5a7768d1903e0cbf165a1da5bb81efe18389387c99501b47057e0d3c1"
   },
   "color_db": {
     "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.25/colors.db",
