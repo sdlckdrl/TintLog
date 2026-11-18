@@ -1,9 +1,9 @@
 {
-  "version": "4.11.33",
-  "notes": "검색 결과 표의 열 너비를 조절하면 PC별로 자동 저장하여 다음 실행에도 복원합니다. 환경 설정에 검색 결과 행 높이를 추가했으며, 재검색이나 글자 크기 변경 후에도 지정한 높이를 유지합니다. 마지막 메모 열도 사용자가 정한 너비를 유지합니다.",
+  "version": "4.11.34",
+  "notes": "조색 전송 Queue.dat의 줄바꿈(CRLF), 공백 및 요청 구분 형식을 정상 조색 프로그램 형식에 맞췄습니다. 괄호가 있는 베이스명 잘림을 수정하고 배합량의 불필요한 0 표기를 정리했습니다. 원본 제품·색상·베이스명, ID, SRC/LQT, 용량 및 배합량은 유지합니다. 원격 전송에 적용하려면 각 조색기 PC의 TintLog를 업데이트하고 API 서버를 재시작하세요.",
   "installer": {
-    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.33/TintLog_Setup_4.11.33.exe",
-    "sha256": "5a8d96f5a7768d1903e0cbf165a1da5bb81efe18389387c99501b47057e0d3c1"
+    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.34/TintLog_Setup_4.11.34.exe",
+    "sha256": "101e4fc1ff87c2443ae65b2fbad326baa03af1e8ee4dbd3973d17f521cfb3736"
   },
   "color_db": {
     "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.25/colors.db",
