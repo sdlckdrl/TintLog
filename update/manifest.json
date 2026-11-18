@@ -1,9 +1,9 @@
 {
-  "version": "4.11.34",
-  "notes": "조색 전송 Queue.dat의 줄바꿈(CRLF), 공백 및 요청 구분 형식을 정상 조색 프로그램 형식에 맞췄습니다. 괄호가 있는 베이스명 잘림을 수정하고 배합량의 불필요한 0 표기를 정리했습니다. 원본 제품·색상·베이스명, ID, SRC/LQT, 용량 및 배합량은 유지합니다. 원격 전송에 적용하려면 각 조색기 PC의 TintLog를 업데이트하고 API 서버를 재시작하세요.",
+  "version": "4.11.35",
+  "notes": "전송용 Queue.dat의 SRC와 LQT를 항상 0으로 기록합니다. 원본 이력은 변경하지 않으며 제품명, 색상, 베이스명, 제품 ID, 용량, 배합량, UNT는 그대로 유지합니다. 69개 회귀 테스트와 패키징 실행 검증을 통과했습니다. 실제 조색 및 경고 해결 여부는 미검증입니다. 적용하려면 조색기 PC의 TintLog를 업데이트한 뒤 API 서버를 재시작하세요.",
   "installer": {
-    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.34/TintLog_Setup_4.11.34.exe",
-    "sha256": "101e4fc1ff87c2443ae65b2fbad326baa03af1e8ee4dbd3973d17f521cfb3736"
+    "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.35/TintLog_Setup_4.11.35.exe",
+    "sha256": "a386dae23351233ee11d7c4ef99db88a044c8939bf738dd257771f8078d69638"
   },
   "color_db": {
     "url": "https://github.com/sdlckdrl/TintLog/releases/download/v4.11.25/colors.db",
